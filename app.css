@@ -1,0 +1,8 @@
+body{
+    background: rgb(2,0,36);
+    background: radial-gradient(circle, rgba(2,0,36,1) 55%, rgba(0,0,0,1) 85%, rgba(191,206,209,1) 100%);
+}
+
+/* table th tr td{
+    border: 2px solid;
+} */
